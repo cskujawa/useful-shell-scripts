@@ -10,8 +10,7 @@ This guide will enable `systemd` to run as normal under WSL 2. This will enable 
 
   ```bash
   cd /tmp
-  wget --content-disposition \
-    "https://gist.githubusercontent.com/djfdyuruiry/6720faa3f9fc59bfdf6284ee1f41f950/raw/952347f805045ba0e6ef7868b18f4a9a8dd2e47a/install-sg.sh"
+  curl https://raw.githubusercontent.com/cskujawa/useful-shell-scripts/main/Win10-WSL2-Systemd/install-sg.sh > install-sg.sh
   ```
 
 - Make it executable:
