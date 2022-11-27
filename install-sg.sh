@@ -1,3 +1,4 @@
+#Script used to configure systemd for Ubuntu 20.04 running on Windows 10 using WSL2
 #Credit for this file belongs to:
 #https://gist.github.com/djfdyuruiry/6720faa3f9fc59bfdf6284ee1f41f950
 #File modified to use GENIE_VERSION 2.4 and dotnet-runtime-6.0
